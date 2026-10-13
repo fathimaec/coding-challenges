@@ -1,1 +1,1 @@
-# coding-challenges
+# Sum of even numbers
